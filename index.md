@@ -38,9 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Personal Crawler
 
-I've established a crawler project to collect enough data for my personal research usage. my crawler(https://rui-sz.github.io/crawler)
+I've established a crawler project to collect enough data for my personal research usage. [my crawler](https://rui-sz.github.io/crawler)
 
-### Fraud Detection
+### Anomaly Detection
 
-Recently, according to requirements of my work in TikTok, I have been doing work on Fraud Detection. And it will last for a long time, so I established a project [Fraud Detection](https://rui-sz.github.io/crawler) to track on the progress in this area.
+Recently, according to requirements of my work in TikTok, I have been doing work on Anomaly Detection. And it will last for a long time, so I established a project [Anomaly Detection](https://rui-sz.github.io/anomaly-detection) to track on the progress in this area.
 
