@@ -1,8 +1,28 @@
-## Rui Ding (丁锐)
+## Bio
 
 You can use the [editor on GitHub](https://github.com/rui-sz/rui-sz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Education
+
+my education
+
+## Professional Experience
+
+my work experience
+
+## Research Projects
+
+### Personal Crawler
+
+I've established a crawler project to collect enough data for my personal research usage. [my crawler](https://rui-sz.github.io/crawler)
+
+### Anomaly Detection
+
+Recently, according to requirements of my work in TikTok, I have been doing work on Anomaly Detection. And it will last for a long time, so I established a project [Anomaly Detection](https://rui-sz.github.io/anomaly-detection) to track on the progress in this area.
+
+## Skills of using github
 
 ### Markdown
 
@@ -35,14 +55,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-## Research Projects
-
-### Personal Crawler
-
-I've established a crawler project to collect enough data for my personal research usage. [my crawler](https://rui-sz.github.io/crawler)
-
-### Anomaly Detection
-
-Recently, according to requirements of my work in TikTok, I have been doing work on Anomaly Detection. And it will last for a long time, so I established a project [Anomaly Detection](https://rui-sz.github.io/anomaly-detection) to track on the progress in this area.
-
