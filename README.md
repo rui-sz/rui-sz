@@ -12,7 +12,7 @@
 
 ## Technical area I'm interested
 
-I personally is passionate in kinds of domain in algo and big data, and after graduating from HUST software eng. On the whole, I am interested and have been diving into following areas for years
+I am passionate in kinds of domain in algo/big data. On the whole, I am interested and have been diving into related topics for years, after graduated from HUST software eng. Some Areas I'm foucsing on:
 
 * 🚀 Search Engine/Recommendation
 * 📚 DLs, like GNN/GCN/Pagerank, LLM/CV/Multimodal
