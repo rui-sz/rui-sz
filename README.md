@@ -1,2 +1,2 @@
 # rui-sz.github.io
-rui
+rui's page
