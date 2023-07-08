@@ -2,7 +2,7 @@
 
 ## About myself
 
-💻  I have been working in TikTok as an algo engineer since 2018. And worked in Tencent/Baidu for more than 6 years before, also in Algo/Data area.
+💻  Working in TikTok as an algo engineer since 2018. Worked in Tencent/Baidu for 6+Y in Algo/Data before.
 
 🎓 Graduated from HUST@Wuhan and Peking University@SZ
 
