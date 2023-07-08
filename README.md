@@ -8,6 +8,8 @@
 
 🏠 Now I base in Singapore, and will travel to CN cities now and then
 
+📧 drjames@163.com   ☎️ +6591578082
+
 ## Technical area I'm interested
 
 I personally is passionate in kinds of domain in algo and big data, and after graduating from HUST software eng. On the whole, I am interested and have been diving into following areas for years
